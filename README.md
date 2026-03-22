@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;📱+Mobile+App+Developer+(Flutter+%2F+Kotlin);📊+Data+Analyst+(Power+BI+%2F+SSAS+%2F+Weka);🐳+Docker+%7C+Linux+%7C+Git;🌍+Based+in+Morocco+—+Open+to+Freelance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;📱+Mobile+App+Developer+(Flutter+%2F+Kotlin);📊+Data+Analyst+(Power+BI+%2F+SSAS+%2F+Weka+%2F+Talend);🐳+Docker+%7C+Linux+%7C+Git;🌍+Based+in+Morocco+—+Open+to+Freelance)](https://git.io/typing-svg)
 
 <br/>
 
@@ -94,6 +94,7 @@ const OUABEN = {
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Weka](https://img.shields.io/badge/Weka-FF6600?style=flat-square&logo=data&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-1675BC?style=flat-square&logo=talend&logoColor=white)
 
 </details>
 
