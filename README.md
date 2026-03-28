@@ -115,10 +115,7 @@ const OUABEN = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OUABEN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B9BC1" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUABEN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B9BC1" />
 
-<br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=OUABEN&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=8B9BC1&currStreakNum=FFFFFF&sideLabels=8B9BC1" />
 
